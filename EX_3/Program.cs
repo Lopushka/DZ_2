@@ -29,3 +29,4 @@ else
         Console.Write($"\nЧисло \"{numder}\" не кратно числу \"{numder_1}\" и не кратно числу \"{numder_2}\"");
     }
 }
+
